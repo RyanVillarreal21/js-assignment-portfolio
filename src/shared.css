@@ -1,0 +1,95 @@
+html {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  background-image: linear-gradient(
+    to bottom right,
+    #030c14,
+    #360379,
+    #1203dfc7,
+    rgba(89, 216, 255, 0.699)
+  );
+  background-attachment: fixed;
+  font-family: "Times New Roman", Times, serif;
+}
+
+button:hover {
+  background-color: #c9c9c9;
+  cursor: pointer;
+}
+
+button:active {
+  background-color: #c9c9c9;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.row {
+  justify-content: space-between;
+}
+
+.about {
+  position: fixed;
+  right: 14%;
+  top: 2%;
+  background-color: #494949;
+  border: none;
+  color: white;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 15px;
+}
+
+.projects {
+  position: fixed;
+  right: 7.5%;
+  top: 2%;
+  background-color: #494949;
+  border: none;
+  color: white;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 15px;
+}
+
+.contact {
+  position: fixed;
+  right: 1%;
+  top: 2%;
+  background-color: #494949;
+  border: none;
+  color: white;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 15px;
+}
+
+.home {
+  position: fixed;
+  left: 1%;
+  top: 2%;
+  background-color: #494949;
+  border: none;
+  color: white;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 15px;
+}
+
+@media only screen and (max-width: 600px) {
+  /* nav; */
+}

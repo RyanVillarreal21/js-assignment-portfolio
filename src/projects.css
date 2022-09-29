@@ -1,0 +1,124 @@
+.aboutProj {
+  position: fixed;
+  right: 7.5%;
+  top: 2%;
+  background-color: #494949;
+  border: none;
+  color: white;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 15px;
+}
+
+.projectsTitle {
+  color: whitesmoke;
+  font-size: 5em;
+  position: relative;
+  top: 20px;
+  text-align: center;
+  margin: 0;
+}
+
+.proj1 {
+  border: 5px solid whitesmoke;
+  border-radius: 15px;
+  padding: 10px;
+  width: 500px;
+  color: whitesmoke;
+  text-align: center;
+  position: absolute;
+  top: 13.5%;
+  left: 26.5%;
+}
+
+.proj2 {
+  border: 5px solid whitesmoke;
+  border-radius: 15px;
+  padding: 10px;
+  width: 500px;
+  color: whitesmoke;
+  text-align: center;
+  position: absolute;
+  top: 64.8%;
+  left: 26.5%;
+}
+
+.proj3 {
+  border: 5px solid whitesmoke;
+  border-radius: 15px;
+  padding: 10px;
+  width: 500px;
+  color: whitesmoke;
+  text-align: center;
+  position: absolute;
+  top: 41%;
+  left: 26.5%;
+}
+
+.techBody {
+  border: 5px solid whitesmoke;
+  border-radius: 15px;
+  padding: 10px;
+  width: 500px;
+  color: whitesmoke;
+  text-align: center;
+  position: fixed;
+  top: 30%;
+  right: 9%;
+}
+
+.skills {
+  text-decoration: underline;
+}
+
+.socialPic {
+  height: 26%;
+  width: 25%;
+  position: absolute;
+  top: 13.5%;
+  left: 1%;
+  border-radius: 15px;
+}
+
+.logicPic {
+  height: 22.2%;
+  width: 25%;
+  position: absolute;
+  top: 41%;
+  left: 1%;
+  border-radius: 15px;
+}
+
+.onlinePic {
+  height: 31.5%;
+  width: 25%;
+  position: absolute;
+  top: 64.8%;
+  left: 1%;
+  border-radius: 15px;
+}
+
+.fa-github {
+  color: whitesmoke;
+}
+
+.gitSocial {
+  position: absolute;
+  top: 22px;
+  left: 335px;
+}
+
+.gitLogic {
+  position: absolute;
+  top: 22px;
+  left: 350px;
+}
+
+.gitShop {
+  position: absolute;
+  top: 22px;
+  left: 362px;
+}

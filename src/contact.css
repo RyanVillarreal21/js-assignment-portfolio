@@ -1,0 +1,69 @@
+.contactTitle {
+  color: whitesmoke;
+  font-size: 5em;
+  position: relative;
+  top: 125px;
+  text-align: center;
+  margin: 0;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  border: 2px;
+  padding: 160px;
+  justify-content: space-between;
+  bottom: 100px;
+  text-align: center;
+  color: whitesmoke;
+  font-size: 24px;
+}
+
+input {
+  height: 30px;
+  width: 50em;
+  border: 2px;
+  border-radius: 3px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+  position: relative;
+  align-self: center;
+}
+
+.send {
+  height: 30px;
+  width: 8em;
+  border: 2px;
+  border-radius: 15px;
+  position: absolute;
+  bottom: 38%;
+  align-self: center;
+  color: whitesmoke;
+  font-size: 15px;
+  background-color: #494949;
+}
+
+.messageBox {
+  position: absolute;
+  top: 42%;
+  left: 30.25%;
+  height: 150px;
+  width: 750px;
+  border-radius: 3px;
+  font-size: 15px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.linkedin {
+  color: whitesmoke;
+  position: absolute;
+  bottom: 6%;
+  left: 48.25%;
+}
+
+.gitAccount {
+  color: whitesmoke;
+  position: absolute;
+  bottom: 6%;
+  left: 50.25%;
+}
